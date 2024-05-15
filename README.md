@@ -32,7 +32,7 @@ Para visualizar o dashboard completo, [clique aqui](https://app.powerbi.com/view
 
 ### Imagens do Projeto:
 
-- Capa: ![Dashboard Vendas - Capa](https://vinicius.startz.space/wp-content/uploads/2024/04/PBIW-Vendas-P00.png)
+- Capa: ![Dashboard Vendas - Capa](https://github.com/vhsmdev/dashboard-vendas/blob/main/PrintsProjeto/CAPA.png?raw=true)
 - Performance de Vendas: ![Dashboard Vendas - Página 1](https://github.com/vhsmdev/dashboard-vendas/blob/main/PrintsProjeto/P00.png?raw=true)
 - Decomposição do Faturamento: ![Dashboard Vendas - Página 2](https://github.com/vhsmdev/dashboard-vendas/blob/main/PrintsProjeto/P01.png?raw=true)
 - Principais Influenciadores: ![Dashboard Vendas - Página 3](https://github.com/vhsmdev/dashboard-vendas/blob/main/PrintsProjeto/P02.png?raw=true)
