@@ -28,7 +28,7 @@ O Dashboard Vendas oferece análises detalhadas para impulsionar suas estratégi
 
 ### Acesso ao Projeto:
 
-Para visualizar o dashboard completo, [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiYzMyNTNlNzgtMGE1ZS00NjFjLWFiZmMtYjhjNTgwOWNmMWQ3IiwidCI6IjhkODdkMGZhLWE4NDktNGNkYi1iZTIxLTk1YzY3ZjU3ZGZmYyJ9).
+Para visualizar o dashboard completo, [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiZjRkZDMwOGMtZTAwNy00NmEzLWI4ZGItYjMzY2I1M2RhYTMxIiwidCI6IjhkODdkMGZhLWE4NDktNGNkYi1iZTIxLTk1YzY3ZjU3ZGZmYyJ9).
 
 ### Imagens do Projeto:
 
